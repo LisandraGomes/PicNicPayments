@@ -1,0 +1,140 @@
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\appsettings.json
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.staticwebassets.runtime.json
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.exe
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.deps.json
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.runtimeconfig.json
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.pdb
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.csproj.AssemblyReference.cache
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.AssemblyInfoInputs.cache
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.AssemblyInfo.cs
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.csproj.CoreCompileInputs.cache
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.RazorAssemblyInfo.cache
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.RazorAssemblyInfo.cs
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\scopedcss\bundle\WebPicNicPayments.styles.css
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\scopedcss\projectbundle\WebPicNicPayments.bundle.scp.css
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.csproj.CopyComplete
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\refint\WebPicNicPayments.dll
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.pdb
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.genruntimeconfig.cache
+C:\Users\Lisandra\Documents\0-git\Projeto de Meios de Pagamento\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\ref\WebPicNicPayments.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\appsettings.json
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.staticwebassets.runtime.json
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.exe
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.deps.json
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.runtimeconfig.json
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\WebPicNicPayments.pdb
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.csproj.AssemblyReference.cache
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.AssemblyInfoInputs.cache
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.AssemblyInfo.cs
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.csproj.CoreCompileInputs.cache
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.RazorAssemblyInfo.cache
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.RazorAssemblyInfo.cs
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\scopedcss\bundle\WebPicNicPayments.styles.css
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\scopedcss\projectbundle\WebPicNicPayments.bundle.scp.css
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.csproj.CopyComplete
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\refint\WebPicNicPayments.dll
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.pdb
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\WebPicNicPayments.genruntimeconfig.cache
+C:\Users\Lisandra\Documents\0-git\PicNicPayments\WebPicNicPayments\WebPicNicPayments\obj\Debug\net6.0\ref\WebPicNicPayments.dll
